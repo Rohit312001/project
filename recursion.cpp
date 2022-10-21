@@ -9,7 +9,7 @@ void func(int n){
 int main(){
     int x=3;
     func(x);
-
+    func(x);
 
 
     return 0;
